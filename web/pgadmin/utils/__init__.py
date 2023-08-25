@@ -60,7 +60,7 @@ class PgAdminModule(Blueprint):
 
         # Create and register the module preference object and preferences for
         # it just before the first request
-        self.before_app_first_request(create_module_preference)
+        self.before_app_request(create_module_preference)
 
     def register_preferences(self):
         # To be implemented by child classes

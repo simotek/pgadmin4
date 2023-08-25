@@ -30,7 +30,7 @@ Python Dependencies
 
 Name                                                             Version          Licence                              URL
 ----                                                             -------          -------                              ---
-Flask                                                            2.2.4            BSD-3-Clause                         https://palletsprojects.com/p/flask
+Flask                                                            2.3.0            BSD-3-Clause                         https://palletsprojects.com/p/flask
 Flask-Gravatar                                                   0.5.0            BSD                                  https://github.com/zzzsochi/Flask-Gravatar/
 Flask-Login                                                      0.6.2            MIT                                  https://github.com/maxcountryman/flask-login
 Flask-Mail                                                       0.9.1            BSD                                  https://github.com/rduplain/flask-mail
